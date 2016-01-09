@@ -1,18 +1,18 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
-logo_url: svg/min/logo.svg
-
+title: MIG&amp;MAG Service
+description: "Mig Mag Service"
+baseurl: "/migmag" # the subpath of your site, e.g. /blog
+url: "httpster.io/sami/" # the name of your domain
+logo_url: img/logo.png
+destination: /home/sami/www/migmag/
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: MIG&amp;MAG Service
+    hero_description: Jo vuodesta 1990 saakka
 
 # Contact form
-api_token: # Enter API token here
+api_token: b3ff75d6d909c10a8c7b13adc2f4b074
 
 # Contact info
 contact:
@@ -37,15 +37,15 @@ map:
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
-feed: yes
+#facebook: http://facebook.com
+#twitter: http://twitter.com
+#instagram: http://instagram.com
+#youtube: http://youtube.com
+#skype: skype:obaez_design?userinfo
+#feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2016 MIG&amp;MAG Service Ky - Kaikki oikeudet pidätetään
 
 # Build settings
 markdown: kramdown
