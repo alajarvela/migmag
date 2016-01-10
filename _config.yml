@@ -1,8 +1,8 @@
 # Site settings
 title: MIG&amp;MAG Service
 description: "Mig Mag Service"
-baseurl: "/migmag" # the subpath of your site, e.g. /blog
-url: "httpster.io/sami/" # the name of your domain
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "migmag.fi" # the name of your domain
 logo_url: img/logo.png
 destination: /home/sami/www/migmag/
 # Hero
