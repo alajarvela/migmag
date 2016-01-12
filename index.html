@@ -45,7 +45,7 @@ layout: default
             {% for services in site.data.services %}
                 <div class="col-sm-6 col-md-6">
                     <div class="icon-box">
-                        <svg class="icon {{ services.icon }}"><use xlink:href="#{{ services.icon }}"></use></svg>
+                        <img class="icon {{ services.icon }}" src="{{ services.icon }}.svg">
                         <h4>{{ services.title }}</h4>
                         <p>{{ services.description }}</p>
                     </div>
