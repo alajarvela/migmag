@@ -1,15 +1,15 @@
-- icon: icon-user-md
+- icon: icon-excavator3
   title: Maa- ja vesirakennuskoneiden ylläpitoa
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: Kulutusosien vaihtotyöt, kauhat, kynnet, telastot, kuormalavat, murskainten kulutus, osien vaihdot, kuljettimien kunnosapidot ja huollot.
 
-- icon: icon-diamond
+- icon: icon-barrel4
   title: Vaarallisten aineiden kuljetuksia
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: Yrityksellä on vaarallisten aineiden kuljetusluvat sekä säiliöissä, että kappaletavarana.
 
-- icon: icon-flask
+- icon: icon-professor5
   title: Työnjohto- ja konsultointitehtäviä
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
-- icon: icon-globe
+- icon: icon-teacher4
   title: Koulutusta ja perehdytystä
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
